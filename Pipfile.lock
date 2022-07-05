@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bc1685f093d763497aa2cc121a243384e64dfe8aaca185fc5bdef70fe58fdd3d"
+            "sha256": "85b951637734776f265895dbec91418ced87505ced6014e415cf474e06a471a5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -26,11 +26,11 @@
         },
         "django": {
             "hashes": [
-                "sha256:6d93497a0a9bf6ba0e0b1a29cccdc40efbfc76297255b1309b3a884a688ec4b6",
-                "sha256:b896ca61edc079eb6bbaa15cf6071eb69d6aac08cce5211583cfb41515644fdf"
+                "sha256:677182ba8b5b285a4e072f3ac17ceee6aff1b5ce77fd173cc5b6a2d3dc022fcf",
+                "sha256:a8681e098fa60f7c33a4b628d6fcd3fe983a0939ff1301ecacac21d0b38bad56"
             ],
             "index": "pypi",
-            "version": "==3.2.13"
+            "version": "==3.2.14"
         },
         "pytz": {
             "hashes": [
@@ -85,7 +85,7 @@
                 "sha256:da06ff3388ec0ffa874cf6bf1fe4da79ebc89e7cb69202bb1c0fb7744208fcb9",
                 "sha256:ff12e69e3c79d41df203336eef0a29376c3bf8bb8fdd254222cbd788d09bd906"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_full_version < '4.0.0'",
             "version": "==3.5.0"
         },
         "cyclonedx-python-lib": {
@@ -93,7 +93,7 @@
                 "sha256:06242c2a61033c4112b41b4f55d3b5130bc2a7bc6107a7b4950eac2431351963",
                 "sha256:8235aad70efc0f84cdf154b8c28802b605ee8133cd5c9a247d834bdb8b6c827a"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_full_version < '4.0.0'",
             "version": "==2.6.0"
         },
         "idna": {
@@ -117,7 +117,7 @@
                 "sha256:0c6d84e932a4e284d78dc28ff6db7df8d02b9a1ecd69f06636a10e325fd932e1",
                 "sha256:5a22fcd562b429084f68510519c9ad5503db528f6a88bc5cd2d48056f938550c"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_full_version < '4.0.0'",
             "version": "==1.0.0"
         },
         "packageurl-python": {
@@ -214,7 +214,7 @@
                 "sha256:7c5599b102feddaa661c826c56ab4fee28bfd17f5abca1ebbe3e7f19d7c97983",
                 "sha256:8fefa2a1a1365bf5520aac41836fbee479da67864514bdb821f31ce07ce65349"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4.0'",
+            "markers": "python_version >= '3.7' and python_full_version < '4.0.0'",
             "version": "==2.28.1"
         },
         "rich": {
@@ -222,7 +222,7 @@
                 "sha256:720974689960e06c2efdb54327f8bf0cdbdf4eae4ad73b6c94213cad405c371b",
                 "sha256:c59d73bd804c90f747c8d7b1d023b88f2a9ac2454224a4aeaf959b21eeb42d03"
             ],
-            "markers": "python_version < '4.0' and python_full_version >= '3.6.2'",
+            "markers": "python_full_version >= '3.6.2' and python_full_version < '4.0.0'",
             "version": "==10.16.2"
         },
         "setuptools": {
@@ -245,7 +245,7 @@
                 "sha256:357eb7383dee6915f17b00596ec6dd2a890f3117bf52be28a4c516aeee581100",
                 "sha256:e2cdf6e2dad49813e9b5fceb3c7943387309a8738125fbff0b58d248a033f7a9"
             ],
-            "markers": "python_version >= '3.6' and python_version < '4.0'",
+            "markers": "python_version >= '3.6' and python_full_version < '4.0.0'",
             "version": "==4.7.0"
         },
         "toml": {
@@ -289,7 +289,7 @@
                 "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
                 "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4.0'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_full_version < '4.0.0'",
             "version": "==1.26.9"
         }
     }
